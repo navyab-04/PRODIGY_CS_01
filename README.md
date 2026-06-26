@@ -2,7 +2,7 @@
 
 ## Task Description
 
-This project is part of the **Prodigy InfoTech Cyber Security Internship**.
+This task is part of the **Prodigy InfoTech Cyber Security Internship**.
 
 The objective is to develop a Python program that implements the **Caesar Cipher Algorithm** to encrypt and decrypt text. The program allows users to enter a message and a shift value, then performs encryption or decryption while preserving uppercase letters, lowercase letters, spaces, and special characters.
 
